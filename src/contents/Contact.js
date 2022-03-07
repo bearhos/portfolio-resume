@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Social from '../components/Social';
 import Map from '../img/map.png';
-import CV from '../img/CV.pdf';
+import CV from '../img/cv2.pdf';
 
 class Contact extends Component {
     render() {
